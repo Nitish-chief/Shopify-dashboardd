@@ -27,6 +27,8 @@ Quick identification of top-performing regions and product categories
 
 Insight into monthly trends and seasonality in sales
 
+
+example - dashboard Preview (https://github.com/Nitish-chief/Shopify-dashboardd/blob/main/Shopify1.png)
 Better inventory planning and marketing decisions based on location-wise and category-wise performance
 
 Efficient filtering by country, product type, and time range for ad-hoc analysis
